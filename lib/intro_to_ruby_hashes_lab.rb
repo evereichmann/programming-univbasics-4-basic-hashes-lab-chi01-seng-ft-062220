@@ -18,6 +18,7 @@ end
 
 def id_hash_generator(number)
   number = {
-    :id => 451,
+    :id => 5,
   }
+  number = 451
 end
